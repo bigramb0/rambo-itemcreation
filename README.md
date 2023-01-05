@@ -1,6 +1,6 @@
 # rambo-itemcreation
 
-A simple soultion to creating items in your server without having to restart!
+A simple solution to creating items in your server without having to restart!
 
 Use the command /newitem and fill out the input form in the image below.
 
